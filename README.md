@@ -1,2 +1,2 @@
 # bharadwajpatnala
-i am an computer science student
+i am an Software Engineer
